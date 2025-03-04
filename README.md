@@ -1,9 +1,5 @@
 # Automatic-Speech-Recognition---DNN
 
-Here is your **Automatic Speech Recognition using Advanced Deep Learning Approaches: A Survey** content in the structured format you requested:  
-
----
-
 ## **Automatic Speech Recognition using Advanced Deep Learning Approaches: A Survey**  
 
 ### **Overview**  
